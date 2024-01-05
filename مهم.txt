@@ -1,0 +1,4 @@
+اولا اذهب الى مجلد SQL  و قوم بعمل  Import لهذا املف من لوحة phpMyAdmin
+email: admin@gmail.com
+password: admin
+هذه البيانات من اجل الدخول الى لوحة التحكم من اجل هذا الموقع
