@@ -1,5 +1,5 @@
 # online-voting-system
-# This is a online-voting-system build with native php using MVC architecture
+# It is an online voting website where the party can register itself on the website and then voters can vote for the party they want. This was build with native php using MVC architecture.
 # First, go to the SQL folder and make an import for this file from the phpMyAdmin panel
 # email: admin@gmail.com
 # password: admin
